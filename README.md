@@ -20,7 +20,7 @@ These bots run on Manifold Markets through a single venue adapter on the shared 
 
 | Strategy |
 |----------|
-| 🎯 **Direction Hunting** — define the edge once, the engine grinds 24/7 (auto TP + SL) |
+| 🎯 **Directional Arbitrage** — arb base (Up + Down < $1), tilted toward the side with more edge |
 
 > Want a strategy not listed here on Manifold Markets? Adapter coverage is demand-driven — [ask](https://t.me/HarrierOnChain).
 

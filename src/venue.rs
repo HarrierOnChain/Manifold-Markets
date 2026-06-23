@@ -11,5 +11,5 @@ pub const VENUE_TYPE: &str = "Play-money";
 
 /// Strategies this venue runs on the shared engine.
 pub const STRATEGIES: &[&str] = &[
-    "Direction Hunting",
+    "Directional Arbitrage",
 ];
